@@ -148,9 +148,6 @@ CityPulse can be useful for:
 
 🏙️ Smart-city administrators
 
-                  │
-
-
-        ↓
+              
 
 
